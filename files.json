@@ -1,0 +1,49 @@
+{
+    "drums": [
+      "drums_01_85bpm.webm",
+      "drums_02_85bpm.webm",
+      "drums_03_85bpm.webm",
+      "drums_04_85bpm.webm",
+      "drums_05_85bpm.webm",
+      "drums_06_85bpm.webm",
+      "drums_07_85bpm.webm",
+      "drums_08_85bpm.webm"
+    ],
+    "effects": [
+      "blip_select11.webm",
+      "blip_select35.webm",
+      "blip_select46.webm",
+      "explosion13.webm",
+      "explosion52.webm",
+      "explosion9.webm",
+      "hit_hurt13.webm",
+      "hit_hurt17.webm",
+      "jump14.webm",
+      "jump20.webm",
+      "jump69.webm",
+      "jump76.webm",
+      "laser-shoot.webm",
+      "laser-shoot5.webm",
+      "laser-shoot7.webm",
+      "pickup-coin.webm",
+      "pickup-coin12.webm",
+      "pickup-coin79.webm",
+      "powerup13.webm",
+      "powerup22.webm",
+      "powerup24.webm"
+    ],
+    "trump-zel": [
+      "dont-tell-us-what-were-gonna-feel.webm",
+      "gambling-with-ww3.webm",
+      "gambling-with-ww3_2.webm",
+      "were-trying-to-solve-a-problem.webm",
+      "you-dont-have-the-cards-rn.webm",
+      "you-dont-have-the-cards.webm",
+      "youre-in-no-position-to-dicate.webm",
+      "youre-in-no-position-to-dictate-how-were-gonna-feel.webm",
+      "youre-not-in-good-position.webm"
+    ],
+    "loops": [
+      "dankmire-synth_90bpm.webm"
+    ]
+  }

@@ -1,0 +1,74 @@
+body {
+    background: #121212;
+    color: #e0e0e0;
+    font-family: 'Orbitron', sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(to right, #ff6bcb, #00f2ff);
+    color: #121212;
+}
+
+h1 {
+    margin: 0;
+}
+
+#dashboard {
+    padding: 20px;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #ff6bcb;
+    margin-bottom: 15px;
+}
+
+.file-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.file-item {
+    background: #1e1e1e;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    min-width: 250px;
+}
+
+.file-item span {
+    margin-right: 10px;
+    flex-grow: 1;
+}
+
+.play-button {
+    background: #00f2ff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-family: 'Orbitron', sans-serif;
+    color: #121212;
+    border-radius: 3px;
+    transition: background 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.play-button:hover {
+    background: #39ff14;
+}
+
+.play-button.playing {
+    background: #9b59b6; /* Neon purple when playing */
+    color: #fff;
+}
